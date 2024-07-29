@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React and Javascript**
 
-- ⚡ Fun fact **I think i am weebs**
+- ⚡ Fun fact **I think i am a weebs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
