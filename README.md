@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rifqi Alisba Garwita Sutrisno</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src"https://steamuserimages-a.akamaihd.net/ugc/2430132182560645647/B011B9B157058C400DD3255DF8ECD70ECDBD796C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2430132182560645647/B011B9B157058C400DD3255DF8ECD70ECDBD796C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirwerq&label=Profile%20views&color=0e75b6&style=flat" alt="sirwerq" /> </p>
 
