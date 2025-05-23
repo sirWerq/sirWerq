@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rifqi Alisba Garwita Sutrisno</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **React, NextJs**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **react**
 
